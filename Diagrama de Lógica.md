@@ -1,4 +1,4 @@
-O presente diagrama tem como objetivo explicar os conteúdos iniciais de Lógica para Computação.
+O presente diagrama tem como objetivo explicar os conceitos e conteúdos iniciais de Lógica para Computação.
 
 
 
